@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2b1f702-38b2-49d6-95e3-25d50f79b2ab" name="Default" comment="" />
+    <list default="true" id="a2b1f702-38b2-49d6-95e3-25d50f79b2ab" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/Lab 2/lab2_a.class" afterPath="$PROJECT_DIR$/out/production/Lab 2/lab2_a.class" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,35 +26,22 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="675">
-      <file leaf-file-name="lab2_a.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lab2_a.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="598">
-              <caret line="103" column="15" lean-forward="false" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="15" />
-              <folding>
-                <element signature="method#print#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#print#1;class#lab2_a#0" expanded="false" />
-                <element signature="method#initRand#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#isAllEven#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#isUnique#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#minGap#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#menu#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#bubbleSort#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#copy#0;class#lab2_a#0" expanded="false" />
-                <element signature="method#getMean#1;class#lab2_a#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_CHANGES_POLICY" value="SHELVE" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
     </option>
   </component>
   <component name="GradleLocalSettings">
@@ -118,6 +108,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages />
@@ -142,7 +133,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -278,12 +269,14 @@
       <workItem from="1518746756402" duration="190000" />
       <workItem from="1518746979535" duration="2647000" />
       <workItem from="1518827920591" duration="3595000" />
-      <workItem from="1518890819137" duration="137000" />
+      <workItem from="1518890819137" duration="567000" />
+      <workItem from="1518995257455" duration="423000" />
+      <workItem from="1519000155102" duration="337000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12489000" />
+    <option name="totallyTimeSpent" value="13679000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -295,18 +288,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-16" y="-16" width="4032" height="2282" extended-state="6" />
-    <editor active="true" />
+    <frame x="-13" y="-13" width="3226" height="1826" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964888" sideWeight="0.49871135" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33289987" sideWeight="0.50128865" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24422781" sideWeight="0.50175" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43714726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24422781" sideWeight="0.49825" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947233" sideWeight="0.49875" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -349,18 +341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#print#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#print#1;class#lab2_a#0" expanded="false" />
-            <element signature="method#initRand#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isAllEven#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isUnique#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#minGap#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#menu#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#bubbleSort#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#copy#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#getMean#1;class#lab2_a#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -368,18 +348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#print#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#print#1;class#lab2_a#0" expanded="false" />
-            <element signature="method#initRand#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isAllEven#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isUnique#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#minGap#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#menu#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#bubbleSort#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#copy#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#getMean#1;class#lab2_a#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -387,18 +355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#print#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#print#1;class#lab2_a#0" expanded="false" />
-            <element signature="method#initRand#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isAllEven#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isUnique#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#minGap#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#menu#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#bubbleSort#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#copy#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#getMean#1;class#lab2_a#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -406,37 +362,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="method#print#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#print#1;class#lab2_a#0" expanded="false" />
-            <element signature="method#initRand#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isAllEven#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isUnique#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#minGap#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#menu#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#bubbleSort#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#copy#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#getMean#1;class#lab2_a#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/lab2_a.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="598">
-          <caret line="103" column="15" lean-forward="false" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="15" />
-          <folding>
-            <element signature="method#print#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#print#1;class#lab2_a#0" expanded="false" />
-            <element signature="method#initRand#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isAllEven#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#isUnique#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#minGap#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#menu#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#bubbleSort#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#copy#0;class#lab2_a#0" expanded="false" />
-            <element signature="method#getMean#1;class#lab2_a#0" expanded="false" />
-          </folding>
+        <state relative-caret-position="1045">
+          <caret line="19" column="53" lean-forward="true" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <folding />
         </state>
       </provider>
     </entry>
